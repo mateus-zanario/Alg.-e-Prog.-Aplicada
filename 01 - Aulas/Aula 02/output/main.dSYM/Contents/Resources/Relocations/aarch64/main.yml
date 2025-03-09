@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/mateusmartinez/Documents/Algoritmos e Programação Aplicada/Aula 02/output/main"
+relocations:     []
+...
